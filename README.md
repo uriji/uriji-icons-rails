@@ -64,12 +64,13 @@ uj_icon "milestone", text: "Milestone", class: "hidden"
 
 ## Icons
 
-The source currently includes 45 icons, whose names are the following:
+The source currently includes 48 icons, whose names are the following:
 
 * audio
 * bars
 * best-sellers
 * bookmark
+* bookmark-alt
 * buyers
 * by-price
 * camera
@@ -80,6 +81,7 @@ The source currently includes 45 icons, whose names are the following:
 * delete
 * description
 * donation
+* donation-alt
 * dream
 * edit-profile
 * entry-wallet
@@ -92,6 +94,7 @@ The source currently includes 45 icons, whose names are the following:
 * like
 * like-o
 * location
+* lock-open
 * media
 * messages
 * metrics
