@@ -1,6 +1,6 @@
 module UrijiIcons
   module Rails
-    UJ_VERSION = '1.1.0'
-    VERSION = '1.1.0'
+    UJ_VERSION = '2.0.0'.freeze
+    VERSION = '2.0.0'.freeze
   end
 end
