@@ -1,4 +1,5 @@
 require File.expand_path('lib/uriji-icons-rails/version', __dir__)
+require 'date'
 
 gemfiles = [
   Dir.glob('app/**/*'),
@@ -15,7 +16,7 @@ testfiles = [
 Gem::Specification.new do |s|
   s.name          = 'uriji-icons-rails'
   s.version       = UrijiIcons::Rails::VERSION
-  s.date          = '2018-08-15'
+  s.date          = Date.today.to_s
   s.summary       = 'An asset gemification of the uriji-icons font library'
   s.description   = 'Provides the Uriji-Icons web fonts and stylesheets as a
                     Rails engine for use with the asset pipeline.'
